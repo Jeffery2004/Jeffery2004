@@ -1,4 +1,4 @@
-# Hi, I'm Jeffery 👋
+# Hi, I'm Jeffery
 
 Aspiring Software Development Engineer specializing in backend and full-stack systems.
 
