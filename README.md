@@ -1,6 +1,6 @@
 # Hi, I'm Jeffery 👋
 
-Aspiring Software Development Engineer (2026) specializing in backend and full-stack systems.
+Aspiring Software Development Engineer specializing in backend and full-stack systems.
 
 🔭 I build scalable web applications with  
 Java | Spring Boot | Node.js | REST APIs | Redis | React
